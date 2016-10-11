@@ -1,7 +1,7 @@
 {
   "name": "import-json-class",
   "main": "./lib/import-json-class",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "description": "Paste JSON as classes for C#.",
   "keywords": [],
   "repository": "https://github.com/someanonredditor/import-json-class",
