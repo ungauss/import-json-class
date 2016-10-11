@@ -2,4 +2,4 @@
 
 A short description of your package.
 
-![A screenshot of your package](http://imgur.com/a/62vXD)
+![A screenshot of your package](https://imgur.com/a/62vXD)
