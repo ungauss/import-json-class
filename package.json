@@ -2,9 +2,9 @@
   "name": "import-json-class",
   "main": "./lib/import-json-class",
   "version": "0.3.0",
-  "description": "A short description of your package",
+  "description": "Paste JSON as classes for C#.",
   "keywords": [],
-  "repository": "https://github.com/atom/import-json-class",
+  "repository": "https://github.com/someanonredditor/import-json-class",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
