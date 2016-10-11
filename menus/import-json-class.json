@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Paste JSON As Classes",
+        "command": "import-json-class:pastejson"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "import-json-class",
+          "submenu": [
+            {
+              "label": "Paste JSON As Classes",
+              "command": "import-json-class:pastejson"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
